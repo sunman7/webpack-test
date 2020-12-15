@@ -1,1 +1,3 @@
-console.log(x);
+
+import css from "./x.css"
+export default css;
